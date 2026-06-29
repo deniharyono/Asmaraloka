@@ -1,0 +1,6 @@
+{
+  "name": "Undangan Pernikahan Premium",
+  "description": "Undangan pernikahan digital premium dengan desain botani mewah, animasi halus, musik latar, dan integrasi RSVP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

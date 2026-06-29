@@ -1,0 +1,24 @@
+{
+  "name": "Undangan Pernikahan Aurelia & Andi",
+  "short_name": "Aurelia & Andi",
+  "description": "Undangan Pernikahan Digital Aurelia Amanda & Andi Pratama - Sabtu, 12 Desember 2026",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8F6F2",
+  "theme_color": "#B89A56",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "maskable"
+    }
+  ]
+}
