@@ -163,7 +163,7 @@ export const defaultWeddingConfig: WeddingConfig = {
   youtubeEmbedUrl: "https://www.youtube.com/embed/S2hsmE_8E4E", // Beautiful instrumental wedding trailer placeholder
   musicUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3", // Gentle acoustic wedding backing track
   guestDefaultName: "Tamu Undangan",
-  appScriptUrl: "https://script.google.com/macros/s/AKfycbx_your_deployed_script_url/exec", // Placed for custom URL integrations
+  appScriptUrl: "https://script.google.com/macros/s/AKfycbxjOe_uU_E3vbZnbfRrQlaTdXcGfZgpZoT9SXzQmXimibHG2rNcsPal8-2YIP_Y7KaLYg/exec", // Placed for custom URL integrations
   quote: {
     text: "Dan di antara tanda-tanda (kebesaran)-Nya ialah Dia menciptakan pasangan-pasangan untukmu dari jenismu sendiri, agar kamu cenderung dan merasa tenteram kepadanya, dan Dia menjadikan di antaramu rasa kasih dan sayang.",
     source: "QS. Ar-Rum: 21"
